@@ -8,6 +8,6 @@ Nesta primeira etapa da Situação de Aprendizagem Ferrorama, os alunos deverão
 
 Complementando a atividade, o repositório deverá conter:
 
-    - Um estudo elaborado pela equipe sobre a identidade visual do sistema (cores, tipografia, estilo, referências visuais e proposta de layout);
-    - Espera-se que a equipe tenha um repositório organizado, documentado e com os primeiros elementos visuais e estruturais do sistema já definidos.
-    - Ao final, devem entregar tabém uma pesquisa sobre o conceito de CRUD em PHP, explicando suas operações (Create, Read, Update, Delete) e como elas serão aplicadas no contexto do projeto.
+- Um estudo elaborado pela equipe sobre a identidade visual do sistema (cores, tipografia, estilo, referências visuais e proposta de layout);
+- Espera-se que a equipe tenha um repositório organizado, documentado e com os primeiros elementos visuais e estruturais do sistema já definidos.
+- Ao final, devem entregar tabém uma pesquisa sobre o conceito de CRUD em PHP, explicando suas operações (Create, Read, Update, Delete) e como elas serão aplicadas no contexto do projeto.
