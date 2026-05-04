@@ -6,4 +6,6 @@
 
 <p>Quando pensamos em qualquer website dinâmico ou sistemas em gerais, a primeira coisa que vem na nossa cabeça é o CRUD, sem ele nada funciona, pois é com ele que realizamos as interações com o banco de dados.</p>
 
-<p></p>
+<h3>Um exemplo visual de um CRUD:</h3>
+
+<img src="assets/images/client-list.png">
