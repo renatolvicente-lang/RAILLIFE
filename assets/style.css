@@ -1,3 +1,7 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .cad_head{
     background-color: chartreuse;
     padding: 20px;
@@ -6,9 +10,16 @@
 .cad_main{
     background-color: deeppink;
     padding: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 .cad_foot{
     background-color:rgb(0, 38, 255) ;
+    padding: 20px;
+}
+
+.container_cad{
+    background-color: gold;
     padding: 20px;
 }
