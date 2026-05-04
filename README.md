@@ -1,6 +1,6 @@
 # RICS
 
-**Alunos:** Mateus de Lima dos Santos, Natan Vitor de Andrade, Arthur Roeder e Gustavo Henrique Fenske.
+**Alunos:** Mateus de Lima dos Santos, Arthur Roeder e Gustavo Henrique Fenske.
 
 ## Descrição
 
