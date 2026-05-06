@@ -22,7 +22,13 @@
 .container_cad{
     background-color: rgb(255, 255, 255);
     padding: 20px;
+<<<<<<< HEAD
     border-radius: 20px;
     box-shadow: 7px 7px 1px rgb(151, 151, 151);
     text-align: center;
+=======
+}
+#item-nav{
+    margin-left: 20px;
+>>>>>>> 845f0098729b149d13568fc944752719371aaf75
 }
