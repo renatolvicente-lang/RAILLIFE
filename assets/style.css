@@ -27,3 +27,12 @@
     text-align: center;
 }
 
+#color{
+    color: aliceblue;
+}
+
+#botao-envio{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    background-color: red;
+}
