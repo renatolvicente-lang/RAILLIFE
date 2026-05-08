@@ -1,14 +1,22 @@
 *{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0%;
+    
+}
+
+.body_log_head{
+    background-color: rgb(207, 203, 203);
 }
 
 .cad_log_head{
-    background-color:  rgb(172, 172, 172);
+    background-color: rgb(207, 203, 203);
     padding: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 .cad_log_main{
-    background-color: rgb(172, 172, 172);
+    background-color: rgb(207, 203, 203);
     padding: 20px;
     display: flex;
     justify-content: center;
@@ -17,13 +25,23 @@
 .cad_log_foot{
     background-color:rgb(101, 101, 102) ;
     padding: 20px;
+    position: fixed;
+    bottom: 0px;
+    width: 100vw;
+    
 }
 
 .container_cad_log{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(253, 252, 238);
     padding: 20px;
     border-radius: 20px;
     box-shadow: 7px 7px 1px rgb(151, 151, 151);
     text-align: center;
 }
 
+.logo_inicio{
+    width: 300px;
+    display: flex;
+    justify-content: center;
+
+}
