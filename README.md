@@ -1,10 +1,10 @@
-# RICS
+# RAILLIFE
 
 **Alunos:** Mateus de Lima dos Santos, Renato L. Vicente, Arthur Roeder e Gustavo Henrique Fenske.
 
 ## Descrição
 
-<img src="assets/images/Via.png" width="300" >
+<img src="assets/images/RAILLIFE red.jpg" width="500" >
 
 Nesta primeira etapa da Situação de Aprendizagem Ferrorama, os alunos deverão iniciar a organização do projeto em equipe, estabelecendo as bases para o desenvolvimento do sistema. Cada equipe deverá criar um repositório (por exemplo, no GitHub ou similar), garantindo que todos os integrantes estejam devidamente vinculados e com acesso ao projeto. O repositório deve conter um arquivo README bem estruturado, apresentando a proposta do sistema, os objetivos do projeto, a identificação dos membros da equipe e uma breve descrição das funcionalidades previstas. Além disso, os alunos deverão definir e documentar a organização do projeto, incluindo a estrutura de pastas, padrão de nomenclatura e divisão inicial de responsabilidades entre os integrantes. Como parte prática do desenvolvimento, a equipe deverá iniciar a construção da interface do sistema, criando a tela de login e a tela de cadastro de usuários, utilizando boas práticas de organização de código e, preferencialmente, frameworks de apoio como Bootstrap.
 
