@@ -8,4 +8,4 @@
 
 <h3>Um exemplo visual de um CRUD:</h3>
 
-<img src="assets/images/client-list.png">
+<img src="https://user-images.githubusercontent.com/43197293/51804484-ad028c00-2289-11e9-9a4f-bf5c58028630.jpg">
