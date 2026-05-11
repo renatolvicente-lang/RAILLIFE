@@ -1,37 +1,37 @@
-*{
+* {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0%;
-    
+
 }
 
-.body_log_head{
+.body_log_head {
     background-color: rgb(207, 203, 203);
 }
 
-.cad_log_head{
-    background-color: rgb(207, 203, 203);
-    padding: 20px;
-    display: flex;
-    justify-content: center;
-}
-
-.cad_log_main{
+.cad_log_head {
     background-color: rgb(207, 203, 203);
     padding: 20px;
     display: flex;
     justify-content: center;
 }
 
-.cad_log_foot{
-    background-color:rgb(101, 101, 102) ;
+.cad_log_main {
+    background-color: rgb(207, 203, 203);
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.cad_log_foot {
+    background-color: rgb(101, 101, 102);
     padding: 20px;
     position: fixed;
     bottom: 0px;
     width: 100vw;
-    
+
 }
 
-.container_cad_log{
+.container_cad_log {
     background-color: rgb(253, 252, 238);
     padding: 20px;
     padding-left: 100px;
@@ -41,37 +41,48 @@
     text-align: center;
 }
 
-.logo_inicio{
+.logo_inicio {
     width: 300px;
     display: flex;
     justify-content: center;
 
 }
 
-#campo-login{
+#campo-login {
     border-radius: 20px;
-    border-color: rgb(151, 151, 151); 
+    border-color: rgb(151, 151, 151);
     padding: 10px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-weight: bold;
 }
 
-#conectar-login{
+#conectar-login {
     background-color: rgb(250, 42, 42);
     color: white;
     border-radius: 20px;
-    border-color: rgb(250, 42, 42); 
+    border-color: rgb(250, 42, 42);
     padding: 10px;
     padding-left: 40px;
     padding-right: 40px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-weight: bold;
+
 }
 
-#c-email{
+#c-email {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
 }
 
-#c-senha{
+#c-senha {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+
+}
+
+.container {
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-weight: bold;
 }
