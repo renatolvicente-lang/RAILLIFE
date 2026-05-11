@@ -34,6 +34,8 @@
 .container_cad_log{
     background-color: rgb(253, 252, 238);
     padding: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
     border-radius: 20px;
     box-shadow: 7px 7px 1px rgb(151, 151, 151);
     text-align: center;
@@ -44,4 +46,32 @@
     display: flex;
     justify-content: center;
 
+}
+
+#campo-login{
+    border-radius: 20px;
+    border-color: rgb(151, 151, 151); 
+    padding: 10px;
+}
+
+#conectar-login{
+    background-color: rgb(250, 42, 42);
+    color: white;
+    border-radius: 20px;
+    border-color: rgb(250, 42, 42); 
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#c-email{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#c-senha{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
 }
