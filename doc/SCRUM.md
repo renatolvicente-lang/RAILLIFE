@@ -47,3 +47,8 @@
 
 <p> É construído em várias interações e a cada interações aperfeiçoamos o produto.
 </p>
+
+
+<h2>Imagem de exemplo:</h2>
+
+<img src="https://www.nimblework.com/wp-content/uploads/2022/12/scrum-methodology.webp">
