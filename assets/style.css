@@ -102,7 +102,7 @@
     border-radius: 100px;
 }
 #h2_home{
-    padding: 100px;
+    padding: 80px;
     border-radius: 0px 0px 50px 50px;
 }
 .h_avatar{
@@ -113,6 +113,12 @@
 }
 #bemvindo-home{
     margin-bottom: 100px;
+}
+#perfil_h{
+    margin-left: 70px;
+}
+#container_h{
+    margin-left: 50px;
 }
 .container {
     font-family: "Arial Black", Gadget, sans-serif;
