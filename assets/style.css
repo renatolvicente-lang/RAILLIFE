@@ -81,6 +81,9 @@
     align-items: flex-start;
 
 }
+#h_home{
+    justify-content: space-between;
+}
 #h_home, #h2_home{
     background-color: #a4a3a1;
 }
@@ -97,6 +100,25 @@
     width: 100px;
     height: 100px;
     border-radius: 100px;
+}
+#h2_home{
+    padding: 80px;
+    border-radius: 0px 0px 50px 50px;
+}
+.h_avatar{
+    margin-right: 30px;
+}
+#inf_func{
+    padding: 15px;
+}
+#bemvindo-home{
+    margin-bottom: 100px;
+}
+#perfil_h{
+    margin-left: 70px;
+}
+#container_h{
+    margin-left: 50px;
 }
 .container {
     font-family: "Arial Black", Gadget, sans-serif;
