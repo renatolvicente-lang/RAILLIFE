@@ -124,3 +124,30 @@
     font-family: "Arial Black", Gadget, sans-serif;
     font-weight: bold;
 }
+
+
+.cinza{
+    background-color: #A4A3A1;
+    border-radius: 30px;
+    padding: 40px;
+    margin: 50px auto;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+}
+
+.mapa-rotas img{
+    width: 650px;
+    height: auto;
+    border-radius: 15px;
+    margin-right: 50px;
+
+}
+
+.legenda-rotas img{
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+}
